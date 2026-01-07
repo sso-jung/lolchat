@@ -122,7 +122,8 @@ async function handleCommand({ roomId, userId, command }) {
 
     if (command === "/서렌") {
         if (player.state !== "PLAYING") {
-            return "현재 게임 중이 아닙니다.";
+            return `현재 게임 중이 아닙니다.
+            새로운 게임을 진행하려면 큐 돌리기를 입력하세요.`
         }
         assertCooldown(player.lastSurrenderAt, 30);
 
