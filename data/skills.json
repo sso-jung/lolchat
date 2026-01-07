@@ -1,0 +1,145 @@
+{
+  "MALPHITE": [
+    { "id": "MALPHITE_P", "name": "화강암 방패", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "MALPHITE_Q", "name": "지진의 파편", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "MALPHITE_W", "name": "천둥소리", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "MALPHITE_E", "name": "지면 강타", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "MALPHITE_R", "name": "멈출 수 없는 힘", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "MUNDO": [
+    { "id": "MUNDO_P", "name": "가고 싶은 데로 간다", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "MUNDO_Q", "name": "오염된 뼈톱", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "MUNDO_W", "name": "심장 전기 충격", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "MUNDO_E", "name": "둔기에 의한 외상", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "MUNDO_R", "name": "최대 투여량", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "RAMMUS": [
+    { "id": "RAMMUS_P", "name": "가시박힌 껍질", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "RAMMUS_Q", "name": "대회전", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "RAMMUS_W", "name": "몸 말아 웅크리기", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "RAMMUS_E", "name": "광란의 도발", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "RAMMUS_R", "name": "지진 폭격", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "AHRI": [
+    { "id": "AHRI_P", "name": "정기 흡수", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "AHRI_Q", "name": "현혹의 구슬", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "AHRI_W", "name": "여우불", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "AHRI_E", "name": "매혹", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "AHRI_R", "name": "혼령 질주", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "XERATH": [
+    { "id": "XERATH_P", "name": "마나 쇄도", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "XERATH_Q", "name": "비전 파동", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "XERATH_W", "name": "파멸의 눈", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "XERATH_E", "name": "충격 구체", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "XERATH_R", "name": "비전 의식", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "NEEKO": [
+    { "id": "NEEKO_P", "name": "태고의 마력", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "NEEKO_Q", "name": "꽃망울 폭발", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "NEEKO_W", "name": "형상 분리", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "NEEKO_E", "name": "칭칭 올가미", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "NEEKO_R", "name": "만개", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "ZED": [
+    { "id": "ZED_P", "name": "약자 멸시", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "ZED_Q", "name": "예리한 표창", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ZED_W", "name": "살아있는 그림자", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ZED_E", "name": "그림자 베기", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ZED_R", "name": "죽음의 표식", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "SHACO": [
+    { "id": "SHACO_P", "name": "암습", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "SHACO_Q", "name": "속임수", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "SHACO_W", "name": "깜짝 상자", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "SHACO_E", "name": "양날 독", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "SHACO_R", "name": "환각", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "EVELYNN": [
+    { "id": "EVELYNN_P", "name": "악의 장막", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "EVELYNN_Q", "name": "증오의 가시", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "EVELYNN_W", "name": "황홀한 저주", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "EVELYNN_E", "name": "채찍유린", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "EVELYNN_R", "name": "최후의 포옹", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "EZREAL": [
+    { "id": "EZREAL_P", "name": "끓어오르는 주문의 힘", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "EZREAL_Q", "name": "신비한 화살", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "EZREAL_W", "name": "정수의 흐름", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "EZREAL_E", "name": "비전 이동", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "EZREAL_R", "name": "정조준 일격", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "SMOLDER": [
+    { "id": "SMOLDER_P", "name": "용 훈련", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "SMOLDER_Q", "name": "초강력 화염 숨결", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "SMOLDER_W", "name": "에취!", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "SMOLDER_E", "name": "펄럭펄럭", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "SMOLDER_R", "name": "엄마아아아!", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "ASHE": [
+    { "id": "ASHE_P", "name": "서리 화살", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "ASHE_Q", "name": "궁사의 집중", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ASHE_W", "name": "일제 사격", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ASHE_E", "name": "매 날리기", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ASHE_R", "name": "마법의 수정화살", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "JANNA": [
+    { "id": "JANNA_P", "name": "순풍", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "JANNA_Q", "name": "울부짖는 돌풍", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "JANNA_W", "name": "서풍", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "JANNA_E", "name": "폭풍의 눈", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "JANNA_R", "name": "계절풍", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "ALISTAR": [
+    { "id": "ALISTAR_P", "name": "승리의 포효", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "ALISTAR_Q", "name": "분쇄", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ALISTAR_W", "name": "박치기", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ALISTAR_E", "name": "짓밟기", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "ALISTAR_R", "name": "꺾을 수 없는 의지", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "NAMI": [
+    { "id": "NAMI_P", "name": "밀려오는 파도", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "NAMI_Q", "name": "물의 감옥", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "NAMI_W", "name": "밀물 썰물", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "NAMI_E", "name": "파도 소환사의 축복", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "NAMI_R", "name": "해일", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "DARIUS": [
+    { "id": "DARIUS_P", "name": "과다출혈", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "DARIUS_Q", "name": "학살", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "DARIUS_W", "name": "마비의 일격", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "DARIUS_E", "name": "포획", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "DARIUS_R", "name": "녹서스의 단두대", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "RIVEN": [
+    { "id": "RIVEN_P", "name": "룬 검", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "RIVEN_Q", "name": "부러진 날개", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "RIVEN_W", "name": "기 폭발", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "RIVEN_E", "name": "용맹", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "RIVEN_R", "name": "추방자의 검", "type": "ULT", "maxLevel": 3 }
+  ],
+
+  "BRIAR": [
+    { "id": "BRIAR_P", "name": "진홍빛 저주", "type": "PASSIVE", "maxLevel": 5 },
+    { "id": "BRIAR_Q", "name": "짜릿한 돌격", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "BRIAR_W", "name": "핏빛 광분", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "BRIAR_E", "name": "오싹한 비명", "type": "NORMAL", "maxLevel": 5 },
+    { "id": "BRIAR_R", "name": "불가항력적 죽음", "type": "ULT", "maxLevel": 3 }
+  ]
+}

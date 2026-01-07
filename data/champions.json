@@ -1,0 +1,25 @@
+[
+  { "id": "MALPHITE", "name": "말파이트", "role": "TANKER" },
+  { "id": "MUNDO", "name": "문도 박사", "role": "TANKER" },
+  { "id": "RAMMUS", "name": "람머스", "role": "TANKER" },
+
+  { "id": "AHRI", "name": "아리", "role": "MAGE" },
+  { "id": "XERATH", "name": "제라스", "role": "MAGE" },
+  { "id": "NEEKO", "name": "니코", "role": "MAGE" },
+
+  { "id": "ZED", "name": "제드", "role": "ASSASSIN" },
+  { "id": "SHACO", "name": "샤코", "role": "ASSASSIN" },
+  { "id": "EVELYNN", "name": "이블린", "role": "ASSASSIN" },
+
+  { "id": "EZREAL", "name": "이즈리얼", "role": "ADC" },
+  { "id": "SMOLDER", "name": "스몰더", "role": "ADC" },
+  { "id": "ASHE", "name": "스몰더", "role": "ADC" },
+
+  { "id": "JANNA", "name": "잔나", "role": "SUPPORTER" },
+  { "id": "ALISTAR", "name": "알리스타", "role": "SUPPORTER" },
+  { "id": "NAMI", "name": "나미", "role": "SUPPORTER" },
+
+  { "id": "DARIUS", "name": "다리우스", "role": "FIGHTER" },
+  { "id": "RIVEN", "name": "리븐", "role": "FIGHTER" },
+  { "id": "BRIAR", "name": "브라이어", "role": "FIGHTER" }
+]

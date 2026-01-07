@@ -1,0 +1,66 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum PlayerState {
+  IDLE
+  PLAYING
+}
+
+model Player {
+  roomId String
+  userId String
+
+  state PlayerState @default(IDLE)
+
+  gold Int @default(0)
+  lp   Int @default(1000)
+
+  tier String @default("SILVER IV")
+
+  championId String?
+  role       String?
+
+  level Int @default(0)
+  exp   Int @default(0)
+
+  dailyWaveUsed     Int      @default(0)
+  waveCount         Int      @default(0)
+  lastWaveRecoverAt DateTime @default(now())
+  dailyWaveResetAt  DateTime @default(now())
+
+  lastActionAt   DateTime?
+  lastSurrenderAt DateTime?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@id([roomId, userId])
+}
+
+model Inventory {
+  roomId String
+  userId String
+  slot   Int
+  itemId String
+
+  createdAt DateTime @default(now())
+
+  @@id([roomId, userId, slot])
+}
+
+model SkillOwned {
+  roomId String
+  userId String
+  skillId String
+  skillLevel Int @default(1)
+
+  createdAt DateTime @default(now())
+
+  @@id([roomId, userId, skillId])
+}
