@@ -144,7 +144,10 @@ async function handleCommand({ roomId, userId, command }) {
             },
         });
 
-        return `게임이 종료되었습니다. 다시 큐를 돌려 게임을 시작할 수 있습니다. / 현재 Lp=${updated.lp}, gold=${updated.gold}`;
+        return `게임이 종료되었습니다. 
+        다시 큐를 돌려 게임을 시작할 수 있습니다. 
+        ==========
+        현재 Lp=${updated.lp}, gold=${updated.gold}`;
     }
 
     return `미구현 커맨드: ${command}`;
